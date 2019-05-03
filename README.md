@@ -9,5 +9,5 @@
 * [react-native troubleshooting](https://medium.com/@jsdario/react-native-troubleshooting-97bd28deb74b)
 
 ## State management
-* react + react-native >= 0.59 (Hooks) - [200 bytes to never think about React state management libraries ever again] (https://github.com/jamiebuilds/unstated-next)
+* react + react-native >= 0.59 (Hooks) - [200 bytes to never think about React state management libraries ever again](https://github.com/jamiebuilds/unstated-next)
 * react-native < 0.59 (Redux) - [Free Egghead.io video course from Dan Abramov: "Building React Applications with Idiomatic Redux"](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
